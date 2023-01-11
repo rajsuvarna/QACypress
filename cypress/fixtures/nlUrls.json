@@ -1,0 +1,6 @@
+
+  {
+  "Haushalt": "cypress/fixtures/20220715-Category-Mailing_Haushalt.html",
+  "Baumarkt": "cypress/fixtures/20220715-Category-Mailing_Baumarkt.html",
+  "Beauty": "cypress/fixtures/20220715-Category-Mailing_Drogerie.html"  
+}
